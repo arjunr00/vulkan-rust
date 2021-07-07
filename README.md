@@ -28,6 +28,17 @@ As with most of my projects, I'm trying to use as few dependencies as possible. 
 unless it's outrageously time- and effort-consuming to do so (like building my own RNG), I'll be
 reinventing the wheel here and there.
 
+## Why?
+
+I find rendering technology fascinating---I've built a [pathtracer] using Rust before, but I also
+really want to build a solid realtime renderer. Maybe (and this is a lofty, way-out-there goal that
+I realistically probably won't achieve) building a rudimentary game engine at some point would be
+cool.
+
+As for why I'm using Rust instead of C++ like I already have, I just like Rust better (not that I
+don't like C++, cause I love it). It's fun to use and helps exercise my ability to think and write
+safe code.
+
 ## Progress
 
 - [ ] Port C++ Vulkan code directly into Rust
