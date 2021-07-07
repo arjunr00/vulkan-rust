@@ -39,6 +39,9 @@ As for why I'm using Rust instead of C++ like I already have, I just like Rust b
 don't like C++, cause I love it). It's fun to use and helps exercise my ability to think and write
 safe code.
 
+**EDIT:** Having started, I'm starting to think this isn't quite worth it. I might return to this later,
+but for now I'll just stick with C++.
+
 ## Progress
 
 - [ ] Port C++ Vulkan code directly into Rust
